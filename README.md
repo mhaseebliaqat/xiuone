@@ -5,7 +5,7 @@
 # apt update && apt install unzip
 # unzip XUI_1.5.12.zip
 # ./install
-# wget https://github.com/diegomtnz/xiuone/raw/main/xuione.zip
+# wget https://github.com/mhaseebliaqat/xiuone/raw/main/xuione.zip
 # unzip xuione.zip
 # cd xuione-crack
 # chmod +x install.sh
