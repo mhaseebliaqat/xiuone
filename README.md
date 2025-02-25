@@ -1,5 +1,5 @@
 # xiuone
-# xiuone instalador
+# xiuone installer
 # wget "https://update.xui.one/XUI_1.5.12.zip" -O /tmp/XUI_1.5.12.zip
 # cd /tmp
 # apt update && apt install unzip
