@@ -11,4 +11,4 @@
 # chmod +x install.sh
 # sudo /home/xui/status
 
-#https://github.com/diegomtnz/xiuone/raw/main/xuione.zip
+#https://github.com/mhaseebliaqat/xiuone/raw/main/xuione.zip
